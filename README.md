@@ -149,7 +149,9 @@ This enforces the **principle of least privilege**: developers can do their day-
 - [x] This README explaining the platform design
 
 ---
+<img width="1917" height="962" alt="Image" src="https://github.com/user-attachments/assets/5502ef8f-c9af-400a-9e3e-06373cbc5018" />
 
+<img width="1912" height="965" alt="Image" src="https://github.com/user-attachments/assets/00097506-6a1c-4a80-a8c4-f0956f7ef864" />
 
 
 
