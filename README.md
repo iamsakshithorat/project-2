@@ -152,6 +152,17 @@ This enforces the **principle of least privilege**: developers can do their day-
 <img width="1917" height="962" alt="Image" src="https://github.com/user-attachments/assets/5502ef8f-c9af-400a-9e3e-06373cbc5018" />
 
 <img width="1912" height="965" alt="Image" src="https://github.com/user-attachments/assets/00097506-6a1c-4a80-a8c4-f0956f7ef864" />
+<img width="1897" height="977" alt="Image" src="https://github.com/user-attachments/assets/7aa75c37-fb74-4abc-acc1-a060aa01de3a" />
+
+<img width="1910" height="962" alt="Image" src="https://github.com/user-attachments/assets/89a5eec1-72fe-416f-aa2a-362c84e106a6" />
+
+<img width="1908" height="967" alt="Image" src="https://github.com/user-attachments/assets/575053ec-4283-4fe1-bb3b-56f8b9e49d8d" />
+
+<img width="1901" height="952" alt="Image" src="https://github.com/user-attachments/assets/bf19959c-2a5a-4da6-8e3d-d66b9e11b2fa" />
+
+<img width="1910" height="965" alt="Image" src="https://github.com/user-attachments/assets/dc69af25-e215-4bc5-a3b7-dbc07e68124a" />
+
+<img width="1917" height="972" alt="Image" src="https://github.com/user-attachments/assets/9a715158-9a9d-4e1e-b9b8-702d652c18f2" />
 
 
 
